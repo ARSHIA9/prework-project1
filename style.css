@@ -204,9 +204,7 @@ progress[value]::-webkit-progress-bar {
   box-shadow: 0 2px 5px rgba(0, 0, 0.25 inset)
 }
 
-progress[value]::-webkit-progress-value {
-  background-color: #f05136;
-}
+::-webkit-progress-value {background-color: #F05136;}
 
 #skills ul {
   font-size: 1.5em;
